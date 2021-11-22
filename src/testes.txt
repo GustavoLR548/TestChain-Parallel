@@ -170,4 +170,197 @@ real    0m13,765s
 user    1m37,462s
 sys     0m1,021s
 
-# Tempo paralela - CPU
+# Tempo paralela - Cuda
+
+Mining block 1...
+Mining block 2...
+Mining block 3...
+-----------Block 0-----------
+Nonce: -1
+Hash: f8bfd7c8a9fe06c367da88856206ba7afe6a7487974e71711a158f65a92753c1
+Previous Hash: 
+Data: Genesis Block
+Time: 1637599634
+-----------Block 1-----------
+Nonce: cVeileK9uZBjzxhlNnp8cU
+Hash: a8476d352895d039810e7526d4e280e6798f653aa575decdf6a8d3b8bc4f7ff5
+Previous Hash: f8bfd7c8a9fe06c367da88856206ba7afe6a7487974e71711a158f65a92753c1
+Data: Block 1 Data
+Time: 1637599634
+-----------Block 2-----------
+Nonce: zmJkznyPsM5MlkYdQ57ScU
+Hash: d29476afbb3d86038be4280fc57f89c56e9dd5d0f0e88bb783134cc695874933
+Previous Hash: a8476d352895d039810e7526d4e280e6798f653aa575decdf6a8d3b8bc4f7ff5
+Data: Block 2 Data
+Time: 1637599634
+-----------Block 3-----------
+Nonce: 8PZ6mGZKzbyspSjMFqJacU
+Hash: b1242a97a2dc855ebbd7808ab72ea67ce4b5912e05ffd9e153f1d33bef5717ee
+Previous Hash: d29476afbb3d86038be4280fc57f89c56e9dd5d0f0e88bb783134cc695874933
+Data: Block 3 Data
+Time: 1637599635
+
+real    0m1,930s
+user    0m1,709s
+sys     0m0,190s
+
+Mining block 1...
+Mining block 2...
+Mining block 3...
+-----------Block 0-----------
+Nonce: -1
+Hash: 3f2972331348e25245916193d446f8d4e22ef2ec2216315f1c7a9c5bc3f2ca4c
+Previous Hash: 
+Data: Genesis Block
+Time: 1637599650
+-----------Block 1-----------
+Nonce: nCHB2lkucyTkv20HmgKz�U
+Hash: a83b20445944c4db7de7d9bb0bb0e9684f9199d4907e6376e4f96baa2cbbb3c2
+Previous Hash: 3f2972331348e25245916193d446f8d4e22ef2ec2216315f1c7a9c5bc3f2ca4c
+Data: Block 1 Data
+Time: 1637599650
+-----------Block 2-----------
+Nonce: uEdujLO7Sx0AxM3f2D9q�U
+Hash: 5c791868e116737120235a3937dfd5aae9cd310f72ef8d95f0bbb00be8495e55
+Previous Hash: a83b20445944c4db7de7d9bb0bb0e9684f9199d4907e6376e4f96baa2cbbb3c2
+Data: Block 2 Data
+Time: 1637599650
+-----------Block 3-----------
+Nonce: 5taNQt9YSDZjxkxeBWtw�U
+Hash: a3a917fbb0df6cedd9490c487ef94dbeea18c9ed274422d5ea4482db057c5b2f
+Previous Hash: 5c791868e116737120235a3937dfd5aae9cd310f72ef8d95f0bbb00be8495e55
+Data: Block 3 Data
+Time: 1637599650
+
+real    0m1,440s
+user    0m1,196s
+sys     0m0,206s
+
+Mining block 1...
+Mining block 2...
+Mining block 3...
+-----------Block 0-----------
+Nonce: -1
+Hash: 72e4ba34fbd38a2b267ca1d6e910b1792f958011a5bd54e5c9003bac2e43c216
+Previous Hash: 
+Data: Genesis Block
+Time: 1637599668
+-----------Block 1-----------
+Nonce: BPfoI45YU52IVw0lwgfx�U
+Hash: 8e4ed333324752f06cef7e5cf8d5ba9fe1af828a15029af9c78598c059e1e1bd
+Previous Hash: 72e4ba34fbd38a2b267ca1d6e910b1792f958011a5bd54e5c9003bac2e43c216
+Data: Block 1 Data
+Time: 1637599668
+-----------Block 2-----------
+Nonce: X4GRZmUv4j2IB1sQyk4z�U
+Hash: a16d362d042c4bcc7a04c3f8ee433fa080a7d92e155f43a6d8fcb4adac3ae12d
+Previous Hash: 8e4ed333324752f06cef7e5cf8d5ba9fe1af828a15029af9c78598c059e1e1bd
+Data: Block 2 Data
+Time: 1637599669
+-----------Block 3-----------
+Nonce: pcasT6FPYE7Tai7ryFQ7�U
+Hash: dc848dc1e407c54d7df2be3c1add2738e0cd5372b2df86f5782fba35c6db9210
+Previous Hash: a16d362d042c4bcc7a04c3f8ee433fa080a7d92e155f43a6d8fcb4adac3ae12d
+Data: Block 3 Data
+Time: 1637599669
+
+real    0m0,909s
+user    0m0,671s
+sys     0m0,196s
+
+Mining block 1...
+Mining block 2...
+Mining block 3...
+-----------Block 0-----------
+Nonce: -1
+Hash: 019bb0adce4a2f84ff264e74e5ec4412a7d0e72b5a1b230117592b769035d5e6
+Previous Hash: 
+Data: Genesis Block
+Time: 1637599684
+-----------Block 1-----------
+Nonce: TQrWeD5rdQ8Km8MJ6Jni�U
+Hash: 2a44d60ae9b79e9851c8aa396de9f9159be59ee3bd3f05896fc069896608d0e3
+Previous Hash: 019bb0adce4a2f84ff264e74e5ec4412a7d0e72b5a1b230117592b769035d5e6
+Data: Block 1 Data
+Time: 1637599684
+-----------Block 2-----------
+Nonce: sCjuLsbsXE5nDEVN4PZN�U
+Hash: 3cd402f4438ab3fb176d215e3f9b1e47ace6cbfd98bf551bd5180e61596786f0
+Previous Hash: 2a44d60ae9b79e9851c8aa396de9f9159be59ee3bd3f05896fc069896608d0e3
+Data: Block 2 Data
+Time: 1637599684
+-----------Block 3-----------
+Nonce: HSujAORVHDwwTD12hVXi�U
+Hash: a1d292f1eb3e278609a20cee61c33d4954622a762a851b3f8f4f4e5573f4c5d4
+Previous Hash: 3cd402f4438ab3fb176d215e3f9b1e47ace6cbfd98bf551bd5180e61596786f0
+Data: Block 3 Data
+Time: 1637599684
+
+real    0m0,704s
+user    0m0,469s
+sys     0m0,201s
+
+Mining block 1...
+Mining block 2...
+Mining block 3...
+-----------Block 0-----------
+Nonce: -1
+Hash: 7a84aea3d72ab8c3ad4fa22ea3f2f9b1d35572ef6dfab41d6251b2638c6f8a85
+Previous Hash: 
+Data: Genesis Block
+Time: 1637599695
+-----------Block 1-----------
+Nonce: h3wXw8sGMBBeTQ9r6NhK�U
+Hash: 5d19a3030bc647f91211d4a88bc5908f09385caa0c3dbab39d56d754edae0a4f
+Previous Hash: 7a84aea3d72ab8c3ad4fa22ea3f2f9b1d35572ef6dfab41d6251b2638c6f8a85
+Data: Block 1 Data
+Time: 1637599695
+-----------Block 2-----------
+Nonce: 0pMY0O2yOSva1yotveIc�U
+Hash: 5afd900d74a0f16bdaef06d9b9365343c3df1a40ec562bf13679e225448ce6e7
+Previous Hash: 5d19a3030bc647f91211d4a88bc5908f09385caa0c3dbab39d56d754edae0a4f
+Data: Block 2 Data
+Time: 1637599696
+-----------Block 3-----------
+Nonce: 11eBlPDm58UnNSppKLgk�U
+Hash: a07511624ef530872975e0c1681731207c312d98ded0e8f136721390d3a9671a
+Previous Hash: 5afd900d74a0f16bdaef06d9b9365343c3df1a40ec562bf13679e225448ce6e7
+Data: Block 3 Data
+Time: 1637599696
+
+real    0m0,658s
+user    0m0,411s
+sys     0m0,215s
+
+
+Mining block 1...
+Mining block 2...
+Mining block 3...
+-----------Block 0-----------
+Nonce: -1
+Hash: 9661f79160ae2b42ac80b7236729d4173e45d5241b86e645c68ee5b0c9e9a0dd
+Previous Hash: 
+Data: Genesis Block
+Time: 1637599706
+-----------Block 1-----------
+Nonce: Cq2rFrVwiaNekZY8mpGX�U
+Hash: 5bb7ba8de73b9609065ebf373c35bf3d85690e2bb47dbe37be2b75cff21c0638
+Previous Hash: 9661f79160ae2b42ac80b7236729d4173e45d5241b86e645c68ee5b0c9e9a0dd
+Data: Block 1 Data
+Time: 1637599706
+-----------Block 2-----------
+Nonce: n5RH40fjyDIued3kmFyI�U
+Hash: 69a3e9e01d7b2c4597c70255d3aab180029e025c2bba12a6ee89074962c3aeeb
+Previous Hash: 5bb7ba8de73b9609065ebf373c35bf3d85690e2bb47dbe37be2b75cff21c0638
+Data: Block 2 Data
+Time: 1637599706
+-----------Block 3-----------
+Nonce: hjdoAJRGcNFapwMkXL5t�U
+Hash: 053933565e3750dd6122af0295e9d1b945797f5f3a83015df37a943a59fd43cd
+Previous Hash: 69a3e9e01d7b2c4597c70255d3aab180029e025c2bba12a6ee89074962c3aeeb
+Data: Block 3 Data
+Time: 1637599707
+
+real    0m0,654s
+user    0m0,433s
+sys     0m0,188s

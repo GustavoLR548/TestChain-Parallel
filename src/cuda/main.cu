@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	uint32_t nDifficulty = 4;
+	uint32_t nDifficulty = 5;
 	Blockchain bChain = Blockchain(nDifficulty);
 
 	cout << "Mining block 1..." << endl;
@@ -20,6 +20,6 @@ int main()
 	cout << "Mining block 3..." << endl;
 	bChain.AddBlock(new Block(3, "Block 3 Data"));
 
-	bChain.PrintBlockchain();
+	//bChain.PrintBlockchain();
 	return 0;
 }
