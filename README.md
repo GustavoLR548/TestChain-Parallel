@@ -1,5 +1,6 @@
 # TestChain
 
-## This is a repository to implement a parallel version of the TestChain in C++
+**Este repositório serve para implementar versões paralelas do algoritmo de blockchain implementado originalmente por
+Dave Nash, [link para o repositório original](https://github.com/teaandcode/TestChain)**
 
-Here are the files for the TestChain C++ tutorial I have placed on my website http://davenash.com/2017/10/build-a-blockchain-with-c/
+Dê uma olhada também no [site](http://davenash.com/2017/10/build-a-blockchain-with-c/) dele, onde é explicado a lógica do algoritmo
