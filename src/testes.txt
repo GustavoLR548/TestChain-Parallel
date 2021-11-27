@@ -13,7 +13,7 @@ Block mined: 00000382523bb7597b589ff988665e158dfb70a500f2f3d4aaff63d542123240
 real    0m8,091s
 user    0m8,076s
 sys     0m0,003s
-gustavolr@archguara /home/gustavolr/HD/code/TestChain/src/openmp-cpu (master●●)$ ./rodar.sh  3 5                                               [ruby-3.0.2p107]
+
 Num blocks: 3
 Difficulty: 5
 
@@ -27,7 +27,7 @@ Block mined: 000006fe77abdb660dd219f270774e2bd9ec730be5a307e3a610297fe5e3d7a4
 real    0m6,400s
 user    0m6,393s
 sys     0m0,000s
-gustavolr@archguara /home/gustavolr/HD/code/TestChain/src/openmp-cpu (master●●)$ ./rodar.sh  3 5                                               [ruby-3.0.2p107]
+
 Num blocks: 3
 Difficulty: 5
 
@@ -41,7 +41,7 @@ Block mined: 00000c4faf775820296e6916e037554beabf19f61de58578dda29971afcf2f77
 real    0m12,220s
 user    0m12,142s
 sys     0m0,033s
-gustavolr@archguara /home/gustavolr/HD/code/TestChain/src/openmp-cpu (master●●)$ ./rodar.sh  3 5                                               [ruby-3.0.2p107]
+
 Num blocks: 3
 Difficulty: 5
 
@@ -55,21 +55,7 @@ Block mined: 00000505bd32ca320a3c5c0568e56f044dabdc075070c81addbf8e297d512ac4
 real    0m2,075s
 user    0m2,067s
 sys     0m0,000s
-gustavolr@archguara /home/gustavolr/HD/code/TestChain/src/openmp-cpu (master●●)$ ./rodar.sh  3 5                                               [ruby-3.0.2p107]
-Num blocks: 3
-Difficulty: 5
 
-Mining block 1...
-Block mined: 00000c08123e895fd8b66b6155351ffb9b57f5530509a3d37f924e427028e03a
-Mining block 2...
-Block mined: 00000e980976dac40c9e5918f89f63dbc0ce8da246e8080c8261761b4d620f3c
-Mining block 3...
-Block mined: 000007e9cc1b58a0c3e9ee42349b7eec551fd880155cb8cb9a9cda43c8294a92
-
-real    0m13,614s
-user    0m13,542s
-sys     0m0,013s
-gustavolr@archguara /home/gustavolr/HD/code/TestChain/src/openmp-cpu (master●●)$ ./rodar.sh  3 5                                               [ruby-3.0.2p107]
 Num blocks: 3
 Difficulty: 5
 
@@ -146,20 +132,6 @@ Num blocks: 3
 Difficulty: 5
 
 Mining block 1...
-Block mined: 000000420a8e673f9be7632dc9a29556d40703d200ba0bdb6c264acd546ab851
-Mining block 2...
-Block mined: 000004cf53dbd2ae74a79465e38acd1fa0ad04b055df016dc6b4cfebb34737a7
-Mining block 3...
-Block mined: 0000068af2666e0c7f1f96d3f976018045b016992133a4ec767bc5962810d152
-
-real    0m30,265s
-user    3m33,090s
-sys     0m1,620s
-
-Num blocks: 3
-Difficulty: 5
-
-Mining block 1...
 Block mined: 00000bf674e53e1aea260d8ce63c85686985911f6c33ce9942cacb557892c4c9
 Mining block 2...
 Block mined: 0000025817ca13d08f2305873974937b30a8fedacf146186a4086b1bb28e993b
@@ -170,39 +142,80 @@ real    0m13,765s
 user    1m37,462s
 sys     0m1,021s
 
-# Tempo paralela - Cuda
+# Tempo paralela - GPU
+
+Num blocks: 3
+Difficulty: 5
 
 Mining block 1...
+Block mined: 00000d163a0beeb9bde5ceb19e53557f968bbad63ef1e8b3a59e422430208596
 Mining block 2...
+Block mined: 000009ff255f677fc50ec06fe8bfde4bfb1ec5049e00bc41946ed74ed62a1cf9
 Mining block 3...
------------Block 0-----------
-Nonce: -1
-Hash: f8bfd7c8a9fe06c367da88856206ba7afe6a7487974e71711a158f65a92753c1
-Previous Hash: 
-Data: Genesis Block
-Time: 1637599634
------------Block 1-----------
-Nonce: cVeileK9uZBjzxhlNnp8cU
-Hash: a8476d352895d039810e7526d4e280e6798f653aa575decdf6a8d3b8bc4f7ff5
-Previous Hash: f8bfd7c8a9fe06c367da88856206ba7afe6a7487974e71711a158f65a92753c1
-Data: Block 1 Data
-Time: 1637599634
------------Block 2-----------
-Nonce: zmJkznyPsM5MlkYdQ57ScU
-Hash: d29476afbb3d86038be4280fc57f89c56e9dd5d0f0e88bb783134cc695874933
-Previous Hash: a8476d352895d039810e7526d4e280e6798f653aa575decdf6a8d3b8bc4f7ff5
-Data: Block 2 Data
-Time: 1637599634
------------Block 3-----------
-Nonce: 8PZ6mGZKzbyspSjMFqJacU
-Hash: b1242a97a2dc855ebbd7808ab72ea67ce4b5912e05ffd9e153f1d33bef5717ee
-Previous Hash: d29476afbb3d86038be4280fc57f89c56e9dd5d0f0e88bb783134cc695874933
-Data: Block 3 Data
-Time: 1637599635
+Block mined: 0000035dc6d56bd7011008c91d946e7ef9ad7ad4677db2acd8e2abb86c7d41d9
 
-real    0m1,930s
-user    0m1,709s
-sys     0m0,190s
+real    0m8,887s
+user    0m49,942s
+sys     0m0,356s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 000008b50638ce44291236d2357dc8680feb269213d4acfc3b1671445dfc59ee
+Mining block 2...
+Block mined: 000008b90c3600537526f7eb40aa11dc7339a6d78bd3b171b6e2df843d28a64d
+Mining block 3...
+Block mined: 000000071c4e9f89b999f72f5a7bb3d265d29e1990f32ece2e6a5ac64c048668
+
+real    0m21,984s
+user    2m2,395s
+sys     0m0,902s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 000007b9ed68d45066b6f576fa23cddf669a0f46312ce902bf8588fdfe17728e
+Mining block 2...
+Block mined: 00000f4ee0ebc457407792c2fb7523fa1319f64540098fee4c0e801b1b20b1d1
+Mining block 3...
+Block mined: 0000088eb0b88e021d59708a3e355980c7597f90602b3ab3d0ac18b3647ec90d
+
+real    0m17,014s
+user    1m35,883s
+sys     0m0,707s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 000002d6b49c054a7ecec2ff69deef958c43a4b9c4aea5ca6ad8e1c55b766bd1
+Mining block 2...
+Block mined: 000009538f127af90b16d39db5e61be50f9118ea814a23fc7e1bd0cc32d6556b
+Mining block 3...
+Block mined: 0000054caa1090c0b37a46b096245bf864d10325e61a2a9535e359d8f8db3f48
+
+real    0m17,280s
+user    1m37,142s
+sys     0m0,769s
+
+Num blocks: 3
+Difficulty: 5
+
+Mining block 1...
+Block mined: 000008ad3d61ffbcb7cff34ce918e9ab2190413162bcd821da7787ad977c3b36
+Mining block 2...
+Block mined: 00000d4a891cf791cc8dbe3f807fcf8a60a84a47ee129412d9ec169622a99072
+Mining block 3...
+Block mined: 00000362915dfeaca6568477d080629c241c8763310267d75910fb45e186df5a
+
+real    0m44,381s
+user    4m12,536s
+sys     0m1,641s
+
+
+# Tempo paralela - Cuda
 
 Mining block 1...
 Mining block 2...
